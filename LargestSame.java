@@ -1,4 +1,4 @@
-// write a java program to find largest number between two number
+// write a java program to find largest number between two numbers and checking whether the number is same.
 import java.util.Scanner;
 class LargestSame
 {
