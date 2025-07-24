@@ -1,3 +1,5 @@
+// java code for simplecalculator
+
 import java.util.Scanner;
 class SimpleCalculator
 {
@@ -38,7 +40,7 @@ class SimpleCalculator
       }
       default:
         {
-          System.out.println("enter properly");
+          System.out.println("enter  operator properly");
         }
     }
 

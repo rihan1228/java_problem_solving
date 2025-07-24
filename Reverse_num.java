@@ -1,3 +1,5 @@
+// java code for reversing the number
+
 import java.util.Scanner;
 class Reverse_num
 {
